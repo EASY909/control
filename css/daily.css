@@ -1,0 +1,227 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.content {
+    padding: 20px;
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    background: #191a2c;
+}
+
+.content .sale {
+    color: #e2e2e5;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content .sale .sale-left,
+.sale-right {
+    width: 49.4%;
+    float: left;
+    background: #24273e;
+}
+
+.content .sale h1 {
+    font-size: 16px;
+    margin: 30px 0px 0px 30px;
+}
+
+.content .sale h2 {
+    font-size: 35px;
+    font-weight: lighter;
+    margin: 0px 0px 20px 30px;
+}
+
+.content .sale .sale-sright {
+    width: 49.4%;
+    float: left;
+    background: #24273e;
+}
+
+#main-left {
+    width: 500px;
+    height: 250px;
+    margin: -50px 0px 0px 30px;
+}
+
+#main-right {
+    width: 500px;
+    height: 250px;
+    margin: -50px 0px 0px 30px;
+}
+
+
+/* 第二部分 */
+
+.total {
+    margin-top: 15px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.total div {
+    width: 24%;
+    height: 160px;
+    background: #24273e;
+}
+
+.total h1 {
+    font-size: 16px;
+    margin: 50px 0px 0px 80px;
+}
+
+.total div h2 {
+    font-size: 35px;
+    font-weight: lighter;
+    margin: 0px 0px 20px 80px;
+}
+
+.total div.total-area h1 {
+    margin: 50px 0px 0px 115px;
+}
+
+.total div.total-area h2 {
+    margin: 0px 0px 0px 120px;
+}
+
+.total div.total-customer h1 {
+    margin: 50px 0px 0px 115px;
+}
+
+.total div.total-customer h2 {
+    margin: 0px 0px 0px 120px;
+}
+
+
+/* 第三部分 */
+
+.income {
+    margin-top: 15px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.income h1 {
+    font-size: 16px;
+    margin: 30px 0px 0px 30px;
+}
+
+.income .income-left {
+    background: #24273e;
+    width: 59%;
+    height: 340px;
+}
+
+.income #income-left {
+    width: 100%;
+    height: 300px;
+    margin-top: -50px;
+}
+
+.income .income-right {
+    background: #24273e;
+    width: 40%;
+    height: 340px;
+}
+
+.income #income-right {
+    width: 100%;
+    height: 300px;
+    margin: -25px 0px 0px -50px;
+}
+
+
+/* 第四部分 */
+
+.goods {
+    margin-top: 15px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.goods h1 {
+    font-size: 16px;
+    margin: 30px 0px 0px 30px;
+}
+
+.goods .goods-left {
+    background: #24273e;
+    width: 50%;
+    height: 340px;
+}
+
+.goods #goods-left {
+    width: 100%;
+    height: 300px;
+    margin: -25px 0px 0px -50px;
+}
+
+.goods .goods-right {
+    background: #24273e;
+    width: 49%;
+    height: 340px;
+}
+
+.goods #goods-right {
+    width: 500px;
+    height: 320px;
+    margin: -50px 0px 0px 30px;
+}
+
+.goods .goods-right h2 {
+    font-size: 35px;
+    font-weight: lighter;
+    margin: 0px 0px 20px 30px;
+}
+
+
+/* 第五部分 */
+
+.area {
+    margin-top: 15px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.area h1 {
+    font-size: 16px;
+    margin: 20px 0px 0px 20px;
+}
+
+.area h2 {
+    font-size: 40px;
+    font-weight: lighter;
+    margin: 0px 0px 20px 20px;
+}
+
+.area .area-left {
+    background: #24273e;
+    width: 30%;
+    height: 600px;
+}
+
+.area #area-left {
+    width: 300px;
+    height: 500px;
+    margin-top: -50px;
+    margin-left: 20px;
+}
+
+.area .area-right {
+    background: #24273e;
+    width: 69%;
+    height: 600px;
+}
+
+.area #area-right {
+    width:650px;
+    height: 600px;
+    margin:-100px 0px 0px 50px;
+}
